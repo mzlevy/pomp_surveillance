@@ -1,0 +1,30 @@
+[[1]]
+[1] "Num. combinations: 55"
+
+[[2]]
+[1] "True Beta: 1.95e-07"
+
+[[3]]
+[1] "Estimated Beta: [1.191e-07,9.527e-07]"
+
+[[4]]
+[1] "Captured Beta: TRUE"
+
+[[5]]
+[1] "True eta: 50"
+
+[[6]]
+[1] "Estimated eta: [20,196]"
+
+[[7]]
+[1] "Captured eta: TRUE"
+
+[[8]]
+[1] "True mu: 24"
+
+[[9]]
+[1] "Estimated mu: [5,98]"
+
+[[10]]
+[1] "Captured mu: TRUE"
+
